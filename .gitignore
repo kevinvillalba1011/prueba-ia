@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# Pesos de modelos y checkpoints
+*.safetensors
+*.pt
+*.pth
+
+# Carpeta de checkpoints del modelo
+modelo_oficios/checkpoint-*/
+modelo_oficios/model.safetensors

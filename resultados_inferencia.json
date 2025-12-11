@@ -1,0 +1,37 @@
+[
+    {
+        "texto": "Se ordena embargo sobre las tierras",
+        "prediccion": {
+            "tipo_documento": "Embargo",
+            "probabilidad": 0.89
+        }
+    },
+    {
+        "texto": "Por medio del presente oficio se informa...",
+        "prediccion": {
+            "tipo_documento": "Traslado",
+            "probabilidad": 0.94
+        }
+    },
+    {
+        "texto": "Se remite copia certificada del acta de audiencia...",
+        "prediccion": {
+            "tipo_documento": "Traslado",
+            "probabilidad": 0.96
+        }
+    },
+    {
+        "texto": "Se requiere al demandado para comparecer...",
+        "prediccion": {
+            "tipo_documento": "Requerimiento",
+            "probabilidad": 0.94
+        }
+    },
+    {
+        "texto": "Comunicamos el levantamiento del embargo...",
+        "prediccion": {
+            "tipo_documento": "Desembargo",
+            "probabilidad": 0.86
+        }
+    }
+]
